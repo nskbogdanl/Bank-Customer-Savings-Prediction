@@ -61,5 +61,5 @@ Predictions are saved to:
 
 ## Author
 
-Bogdan Lomp
+Bogdan Lomp  
 GitHub: [Bank Customer Savings Prediction](https://github.com/nskbogdanl/Bank-Customer-Savings-Prediction)
