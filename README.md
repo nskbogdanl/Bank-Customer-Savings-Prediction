@@ -184,7 +184,7 @@ pip install pandas numpy scikit-learn xgboost pyarrow joblib
 Run training:
 
 ```bash
-python train.py
+python main.py
 ```
 
 ---
